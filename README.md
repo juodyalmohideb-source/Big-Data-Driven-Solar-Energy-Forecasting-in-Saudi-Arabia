@@ -119,4 +119,4 @@ It includes:
 - Output Power
 - Estimated Daily Output
 
-See [Data_Dictionary.md](Data_Dictionary.md) for detailed information about each field.
+See [DataDictionary.md](DataDictionary.md) for detailed information about each field.
