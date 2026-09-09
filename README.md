@@ -120,18 +120,3 @@ It includes:
 - Estimated Daily Output
 
 See [Data_Dictionary.md](Data_Dictionary.md) for detailed information about each field.
-
-## Project Structure
-
-```text
-KSA-Solar-Energy-Forecasting/
-│
-├── README.md
-├── Data_Dictionary.md
-├── KSA_Solar_Energy_Forecasting.ipynb
-│
-├── data/
-│   └── KSAsolar2024.csv
-│
-└── figures/
-    └── project_visualizations
